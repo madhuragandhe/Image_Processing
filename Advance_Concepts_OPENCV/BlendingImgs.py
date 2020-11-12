@@ -1,9 +1,14 @@
 import cv2
 
+# Read the images
 img1=cv2.imread("cat.jpg")
 img2=cv2.imread("dog.jpg")
 
 # Resizing
+
+# if the shapes of the images differ,
+# then resize the smaller shape to the larger one
+# using the cv2.resize()
 shape1=img1.shape
 shape2=img2.shape
 if shape1 != shape2:
