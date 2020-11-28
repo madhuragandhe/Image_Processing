@@ -35,9 +35,15 @@
       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/ColorSpace.py)<br>
       
   **4. Saving an Image**<br>
+       To save an image we use *imsave* function from the *io* class.<br>
+       The first argument in the function includes the name of the file to which you want<br>
+       to save the image, the second argument is the variable that contains the image.<br>
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/SavingImage.py)
+
+  **5. Creating Basic Drawings**<br>
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/BasicDrawings.py)
   
-  **5.*
-  **6. Brasic Drawing
+  **6. Brasic Drawing**<br>
   **7.
   **8.
   **9.
