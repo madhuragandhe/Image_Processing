@@ -6,8 +6,8 @@
        <ol>
            - *imread*: to read the image<br>
            - *imshow*: to show the image<br>
-       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/Open_Close.py)<br>
        </ol>
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/Open_Close.py)<br>
 
   **2. Getting Image Resolution and Pixel Values** <br>
         1. To find the Image Resolution..<br>
