@@ -41,9 +41,46 @@
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/SavingImage.py)
 
   **5. Creating Basic Drawings**<br>
+       We use the *draw* class for drawing images.<br>
+       1. Lines<br>
+        <ol>
+            - We use the *line* function to draw a simple line on an image. <br>
+            - The first two parameters indiate the first point;the last two parameters indicate the second point.<br>
+            - A line is drawn using these points.<br>
+            - We can change the pixel values of the line so we are able to see the line on the image.<br>
+        </ol>
+       2. Rectangle<br>
+        <ol>
+           - To read each pixel value we convert the array in dataframe format. <br>
+           - We use the function *flatten* to convert the three dimensions of an RGB image to a single dimension.<br> 
+           - We then save the image in an excel file named *pixel_values.xlsx*.<br>
+           - For this we use a pandas function to_excel.<br>
+           - This function converts 1-D array into excel like format, with rows and columns.<br>
+       </ol>
+       3. Circle<br>
+        <ol>
+            - We use the *line* function to draw a simple line on an image. <br>
+            - The first two parameters indiate the first point;the last two parameters indicate the second point.<br>
+            - A line is drawn using these points.<br>
+            - We can change the pixel values of the line so we are able to see the line on the image.<br>
+       </ol>
+       4. Bezier Curve<br>
+        <ol>
+            - We use the *line* function to draw a simple line on an image. <br>
+            - The first two parameters indiate the first point;the last two parameters indicate the second point.<br>
+            - A line is drawn using these points.<br>
+            - We can change the pixel values of the line so we are able to see the line on the image.<br>
+       </ol>
+       5. Ellipse<br>
+        <ol>
+            - We use the *line* function to draw a simple line on an image. <br>
+            - The first two parameters indiate the first point;the last two parameters indicate the second point.<br>
+            - A line is drawn using these points.<br>
+            - We can change the pixel values of the line so we are able to see the line on the image.<br>
+       </ol> 
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/BasicDrawings.py)
   
-  **6. Brasic Drawing**<br>
+  **6. **<br>
   **7.
   **8.
   **9.
