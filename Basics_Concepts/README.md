@@ -51,11 +51,8 @@
         </ol>
        2. Rectangle<br>
         <ol>
-           - To read each pixel value we convert the array in dataframe format. <br>
-           - We use the function *flatten* to convert the three dimensions of an RGB image to a single dimension.<br> 
-           - We then save the image in an excel file named *pixel_values.xlsx*.<br>
-           - For this we use a pandas function to_excel.<br>
-           - This function converts 1-D array into excel like format, with rows and columns.<br>
+           - To draw a rectangle we use the *polygon* function. <br>
+           - We give the x and y coordinates, then define the width and height.<br> 
        </ol>
        3. Circle<br>
         <ol>
