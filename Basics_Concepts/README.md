@@ -56,10 +56,9 @@
        </ol>
        3. Circle<br>
         <ol>
-            - We use the *line* function to draw a simple line on an image. <br>
-            - The first two parameters indiate the first point;the last two parameters indicate the second point.<br>
-            - A line is drawn using these points.<br>
-            - We can change the pixel values of the line so we are able to see the line on the image.<br>
+            - We use the *circle* function to draw a circle on an image. <br>
+            - The first two parameters indiate the position of the circle inside the image;<br>
+              the last argument indicates the radius.<br>
        </ol>
        4. Bezier Curve<br>
         <ol>
@@ -78,6 +77,6 @@
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/BasicDrawings.py)
   
   **6. **<br>
-  **7.
+  **7.e
   **8.
   **9.
