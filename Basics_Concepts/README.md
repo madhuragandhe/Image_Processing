@@ -62,10 +62,9 @@
        </ol>
        4. Bezier Curve<br>
         <ol>
-            - We use the *line* function to draw a simple line on an image. <br>
-            - The first two parameters indiate the first point;the last two parameters indicate the second point.<br>
-            - A line is drawn using these points.<br>
-            - We can change the pixel values of the line so we are able to see the line on the image.<br>
+            - We use the *bezier_curve* function to draw a bezier curve on an image. <br>
+            - We need to indicate the position of three or more control points that then shape the curve.<br>
+            - The first six arguments are used to define the three points; the last argument defines the tension present in the line.<br>
        </ol>
        5. Ellipse<br>
         <ol>
