@@ -68,10 +68,10 @@
        </ol>
        5. Ellipse<br>
         <ol>
-            - We use the *line* function to draw a simple line on an image. <br>
-            - The first two parameters indiate the first point;the last two parameters indicate the second point.<br>
-            - A line is drawn using these points.<br>
-            - We can change the pixel values of the line so we are able to see the line on the image.<br>
+            - We use the *ellipse* function to draw an ellipse on an image. <br>
+            - The first two arguments i.e *r,c* indicate the center coordinates of the ellipse.<br>
+            - The next two parameters i.e *r_radius,c_radius* indicate the minor and major semi-axes [ (r/r_radius)**2 + (c/c_radius)**2 = 1].<br>
+            - The next argument is used to set some rotation to the ellipse.<br>
        </ol> 
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/BasicDrawings.py)
   
