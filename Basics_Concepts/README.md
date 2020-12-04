@@ -38,6 +38,7 @@
        To save an image we use *imsave* function from the *io* class.<br>
        The first argument in the function includes the name of the file to which you want<br>
        to save the image, the second argument is the variable that contains the image.<br>
+       <br>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/SavingImage.py)
 
   **5. Creating Basic Drawings**<br>
@@ -75,7 +76,15 @@
        </ol> 
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/BasicDrawings.py)
   
-  **6. **<br>
-  **7.e
+  **6. Doing Gamma Correction**<br>
+       We use the *exposure* class of skimage.The *exposure* class contains<br>
+       the function *adjust_gamma*. The first argument it takes is the image,<br>
+       the second argument is the gamma value. The gamma value should be a non-negative real value.<br>
+       By default the value of gamma vaiable is 1.<br>
+       The function returns a gamma corrected output image.<br>
+       <br>
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/gammaCorrection.py)
+  
+  **7. Rotating, Shifting and Scaling images**<br>
   **8.
   **9.
