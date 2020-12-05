@@ -86,5 +86,11 @@
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/gammaCorrection.py)
   
   **7. Rotating, Shifting and Scaling images**<br>
+       We use the *transform* class from the *skimage* module.<br>
+       *transform* has two functions: *rotate* and *resize*.<br>
+       *rotate* takes the degree of rotation as its parameter;<br>
+       *resize* takes the new size as its parameter.<br>
+       <br>
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/Transforms.py)
   **8.
   **9.
