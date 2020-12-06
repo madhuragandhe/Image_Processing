@@ -92,5 +92,18 @@
        *resize* takes the new size as its parameter.<br>
        <br>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/Transforms.py)
-  **8.
-  **9.
+       
+  **8. Determining Structural Similarity**<br>
+       Structural similarity is usedto find the index that indicate how much two images are similar.<br>
+       A value closer to 1 means the iamges are very similar;<br>
+       a value closer to 0 indicates that they are less simialar.<br>
+       The SSIM function takes 4 arguments.<br>
+       <ol>
+           - The first refers to the image,<br>
+           - The second refers to the image to want to compare with,<br>
+           - The third indicates the range of pixels,<br>
+           - The fourth argument is multichannel, a True value means the image contains more than one channel<br>
+             such as RGB, FALSE means there is only one channel, such as grayscale.<br>  
+      </ol>
+      [code]()
+ 
