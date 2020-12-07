@@ -105,5 +105,5 @@
            - The fourth argument is multichannel, a True value means the image contains more than one channel<br>
              such as RGB, FALSE means there is only one channel, such as grayscale.<br>  
       </ol>
-      [code]()
+      [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Basics_Concepts/StructuralSimilarity.py)
  
