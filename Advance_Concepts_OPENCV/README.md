@@ -7,8 +7,8 @@
        <ol>
            - *cv2.imread()*: This function is used to read the image from a particular destination. <br>
            - *cv2.addWeighted()*: This function blends the two images.The arguments are *(image1,alpha,image2,beta,gamma)*.The alpha and beta parameters indicate the transparency                                   in both images.The last parameter is called gamma.It is just a scalar, which is added to the formulas,to transform the images more effectively.<br>
-           - *cv2.imshow()*: <br>
-           - *cv2.waitKey()*: <br>
+           - *cv2.imshow()*: It helps to display the image in a new window.<br>
+           - *cv2.waitKey()*: This function is used so that the window displaying the output remains until we click Close or press Escape, zero as an argument says thst the window is displayed for an infinite time.<br>
            - *cv2.DestroyAllWindows()*: <br>
        </ol>
        [code]()<br>
