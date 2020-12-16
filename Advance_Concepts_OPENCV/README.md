@@ -12,4 +12,11 @@
            - *cv2.DestroyAllWindows()*: After we have clicked Close or pressed the Escape, this function destroys all the windows that ahve been opened and saved in the memory. <br>
        </ol>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/BlendingImgs.py)<br>
+       
+   **2. Chnaging Contrast and Brightness** <br>
+       *Contrast*: It is the difference between maximum and minimum pixel intensity.<br>
+       *Brightness*: It refers to the lightness or darkness of an image. To make an image brighter, we add a constant number to all pixels present in it. <br>
+    
+       [code]()<br>
+
 
