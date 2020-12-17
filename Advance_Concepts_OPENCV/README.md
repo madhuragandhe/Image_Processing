@@ -13,10 +13,13 @@
        </ol>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/BlendingImgs.py)<br>
        
-   **2. Chnaging Contrast and Brightness** <br>
+   **2. Changing Contrast and Brightness** <br>
        *Contrast*: It is the difference between maximum and minimum pixel intensity.<br>
        *Brightness*: It refers to the lightness or darkness of an image. To make an image brighter, we add a constant number to all pixels present in it. <br>
-    
-       [code]()<br>
+        <br>
+        In this code we didnot use any cv2 functions to change brightness or contrast.We use the numpy library and slicing concept to change the parameter.<br>
+        *np.clip()* limits the values in a particular range.The formula used is:<br>
+        ***(Specific pixel value x Contrast) + Brightness***<br>
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Brightness_Contrast.py)<br>
 
 
