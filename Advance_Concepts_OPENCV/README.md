@@ -63,6 +63,6 @@
            - <br>
        </ol>
        <br>
-       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Text_on_Image.py)<br>
+       [code]()<br>
 
 
