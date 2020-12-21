@@ -39,15 +39,15 @@
        <br>
        Types of FONTS used are:
        <ol>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
+           - FONT_HERSHEY_SIMPLEX<br>
+           - FONT_HERSHEY_PLAIN<br>
+           - FONT_HERSHEY_DUPLEX<br>
+           - FONT_HERSHEY_COMPLEX<br>
+           - FONT_HERSHEY_TRIPLEX<br>
+           - FONT_HERSHEY_COMPLEX_SMALL<br>
+           - FONT_HERSHEY_SCRIPT_SIMPLEX<br>
+           - FONT_HERSHEY_SCRIPT_COMPLEX<br>
+           - FONT_ITALIC<br>
        </ol>
        <br>
        Types of LINES used are:
