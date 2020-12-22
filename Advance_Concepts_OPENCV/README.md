@@ -52,17 +52,12 @@
        <br>
        Types of LINES used are:
        <ol>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
-           - <br>
+           - FILLED: a completely filled line<br>
+           - LINE_4: four connected lines<br>
+           - LINE_8: eight connected lines<br>
+           - LINE_AA: an anti-aliasing lines<br>
        </ol>
        <br>
-       [code]()<br>
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Text_on_Image.py)<br>
 
 
