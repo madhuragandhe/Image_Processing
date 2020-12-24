@@ -58,6 +58,12 @@
            - LINE_AA: an anti-aliasing lines<br>
        </ol>
        <br>
-       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Text_on_Image.py)<br>
-
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Text_on_Image.py)
+       <br>
+       **4. Smoothing Images** <br>
+          *A) Median Filter* <br>
+          <ol>
+              - It is a non linear filter that removes black and white noise present in an image by finding the median using the neighboring filters.<br>
+       <br>
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Text_on_Image.py)
 
