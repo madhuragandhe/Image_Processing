@@ -64,6 +64,17 @@
           *A) Median Filter* <br>
           <ol>
               - It is a non linear filter that removes black and white noise present in an image by finding the median using the neighboring filters.<br>
+              - To smooth an image, we look at the first 3x3 matrix, find the median of that matrix,replace the central value by that median.<br>
+              - Next,move one step to the right and repeat the process until all pixels have been covered.<br>
+              - The final image is the smoothed image.<br>
+              - Median Filter is the best option when you want to preserve the edges of your image while blurring.<br>
+          </ol>
+          *cv2.medianBlur*, is the function used to achieve median blur.<br>
+          It has two parameters:<br>
+          <ol>
+              1. The image we want to smooth.<br>
+              2. The kernel size, which should be odd.Thus a value of 9 means a 9x9 matrix.
+          </ol>
        <br>
-       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Text_on_Image.py)
+       [code]()
 
