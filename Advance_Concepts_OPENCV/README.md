@@ -76,5 +76,5 @@
               2. The kernel size, which should be odd.Thus a value of 9 means a 9x9 matrix.
           </ol>
        <br>
-       [code]()
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/SmoothingImages.py)
 
