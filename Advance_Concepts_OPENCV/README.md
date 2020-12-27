@@ -76,5 +76,21 @@
               2. The kernel size, which should be odd.Thus a value of 9 means a 9x9 matrix.
           </ol>
        <br>
+       *A) Gaussian Filter* <br>
+          <ol>
+              - It depends on the standard deviation of the image and assumes the mean as zero.<br>
+              - Gaussian filter do not take care of the edges.<br>
+              - It is used for basic image blurring.<br>
+              - .<br>
+              - .<br>
+          </ol>
+          *cv2.GaussianBlur*, is the function used to apply gaussian filter.<br>
+          It has three parameters:<br>
+          <ol>
+              1. The image we want to smooth.<br>
+              2. The kernel size, which should be odd.Thus a value of 9 means a 9x9 matrix.
+              3. 
+          </ol>
+       <br>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/SmoothingImages.py)
 
