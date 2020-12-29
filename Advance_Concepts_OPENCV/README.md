@@ -92,5 +92,22 @@
               3. The standard deviation<br>
           </ol>
        <br>
+        *B) Bilateral Filter* <br>
+          <ol>
+              - .<br>
+              - .<br>
+              - .<br>
+              - .<br>
+              - .<br>
+          </ol>
+          *cv2.bilateralFilter*, is the function used to apply gaussian filter.<br>
+          It has three parameters:<br>
+          <ol>
+              1. <br>
+              2. <br>
+              3. <br>
+              4. <br>
+          </ol>
+       <br>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/SmoothingImages.py)
 
