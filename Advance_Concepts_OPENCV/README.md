@@ -103,10 +103,10 @@
           *cv2.bilateralFilter*, is the function used to apply gaussian filter.<br>
           It has three parameters:<br>
           <ol>
-              1. <br>
-              2. <br>
-              3. <br>
-              4. <br>
+              1. The image we want to smooth<br>
+              2. The diameter of the pixel neighborhood (neighborhood diameter to search for neighbors)<br>
+              3. The sigma value for color (to find pixels that are similar)<br>
+              4. The sigma vlaue for space (to find pixel that are closer)<br>
           </ol>
        <br>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/SmoothingImages.py)
