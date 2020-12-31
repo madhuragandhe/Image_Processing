@@ -94,11 +94,13 @@
        <br>
         *B) Bilateral Filter* <br>
           <ol>
-              - .<br>
-              - .<br>
-              - .<br>
-              - .<br>
-              - .<br>
+              - It is used where we have to smooth an image and keep the edges intact.<br>
+              - We replace the pixel value with the average of its neighbors.<br>
+              - Neighbors are defined in the following ways:<br>
+              <ol>
+                  - Two pixel values are close to each other (using sapce)<br>
+                  - Two pilex values are similar to each other (using color)<br>
+              </ol>
           </ol>
           *cv2.bilateralFilter*, is the function used to apply gaussian filter.<br>
           It has three parameters:<br>
