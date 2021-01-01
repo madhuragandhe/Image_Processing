@@ -24,7 +24,7 @@
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Brightness_Contrast.py)<br>
    
    **3. Adding Text to Images** <br>
-       *cv2,putText()* is a function present in cv2 module that allows us to add text.<br>
+       *cv2.putText()* is a function present in cv2 module that allows us to add text.<br>
        It takes the following arguments:<br>
        <ol>
            - Image, where you want to write the text<br>
@@ -112,4 +112,17 @@
           </ol>
        <br>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/SmoothingImages.py)
+       <br>
+       **5. Chnaging the Shape of Images ** <br>
+       There are two operations (Dilation and Erosion) used to change the shape of the images.<br>
+       Dilation results in the addition of pixels to the boundary of an object.<br>
+       Erosion leads to the removal of pixels from the boundary.<br>
+       To erode or dilate an image, wefirst define the neighborhood kernel, using these three ways:
+       <ol>
+           - <br>
+           - <br>
+           - <br>
+       </ol>
+       [code DILATION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Dilation.py)
+       [code EROSION]()
 
