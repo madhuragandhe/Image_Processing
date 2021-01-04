@@ -119,10 +119,11 @@
        Erosion leads to the removal of pixels from the boundary.<br>
        To erode or dilate an image, wefirst define the neighborhood kernel, using these three ways:
        <ol>
-           - <br>
-           - <br>
-           - <br>
+           - MORPH_RECT: to make rectangular kernel<br>
+           - MORPH_CROSS: to make a cross-shaped kernel<br>
+           - MORPH_ELLIPS: to make an elliptical kernel<br>
        </ol>
+       
        [code DILATION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Dilation.py)
        [code EROSION]()
 
