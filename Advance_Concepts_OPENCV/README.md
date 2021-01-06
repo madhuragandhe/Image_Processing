@@ -123,6 +123,9 @@
            - MORPH_CROSS: to make a cross-shaped kernel<br>
            - MORPH_ELLIPS: to make an elliptical kernel<br>
        </ol>
+       The kernel finds the neighbors of a pixel, which helps in eroding or dilating an image.<br>
+       For Dilation, the maximum value generates a new pixel value.<br>
+       For Erosion, the minimum value generates a new pixel value.<br>
        
        [code DILATION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Dilation.py)
        [code EROSION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Erosion.py)
