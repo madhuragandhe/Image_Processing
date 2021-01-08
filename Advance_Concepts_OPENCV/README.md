@@ -126,6 +126,13 @@
        The kernel finds the neighbors of a pixel, which helps in eroding or dilating an image.<br>
        For Dilation, the maximum value generates a new pixel value.<br>
        For Erosion, the minimum value generates a new pixel value.<br>
+       <br>
+       *cv2.getStructuringElement()* is the function used to define the kernel and pass it down to the erode or dilate function.<br>
+       <ol>
+           - Erosion/dilation type<br>
+           - Kernel size<br>
+           - Point at which the kernel should start<br>
+       </ol>
        
        [code DILATION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Dilation.py)
        [code EROSION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Erosion.py)
