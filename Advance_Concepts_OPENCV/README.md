@@ -133,7 +133,7 @@
            - Kernel size<br>
            - Point at which the kernel should start<br>
        </ol>
-       
+       After applying *cv2.getStructuringElement()* and getting the final kernel, we use *cv2.erode()* and *cv2.dilate()* to perform specific operations.<br>
        [code DILATION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Dilation.py)
        [code EROSION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Erosion.py)
 
