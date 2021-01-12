@@ -113,7 +113,7 @@
        <br>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/SmoothingImages.py)
        <br>
-       **5. Chnaging the Shape of Images ** <br>
+       **5. Changing the Shape of Images ** <br>
        There are two operations (Dilation and Erosion) used to change the shape of the images.<br>
        Dilation results in the addition of pixels to the boundary of an object.<br>
        Erosion leads to the removal of pixels from the boundary.<br>
@@ -136,4 +136,6 @@
        After applying *cv2.getStructuringElement()* and getting the final kernel, we use *cv2.erode()* and *cv2.dilate()* to perform specific operations.<br>
        [code DILATION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Dilation.py)
        [code EROSION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Erosion.py)
+       <br>
+       **6. Effecting Image Threshold **<br>
 
