@@ -137,5 +137,5 @@
        [code DILATION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Dilation.py)<br>
        [code EROSION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Erosion.py)
        <br>
-       **6. Effecting Image Threshold **<br>
+       **6. Effecting Image Threshold**<br>
 
