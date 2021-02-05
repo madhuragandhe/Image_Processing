@@ -138,4 +138,6 @@
        [code EROSION](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/Erosion.py)
        <br>
        **6. Effecting Image Threshold**<br>
+       Image thresholding is used to segment images. We try to get an object out of the image by removingthe background and focusing on the object.<br>
+       We first convert the image to grayscale and then into a binary format-meaning, the image contains black or white only.<br>
 
