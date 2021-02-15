@@ -142,7 +142,7 @@
        We first convert the image to grayscale and then into a binary format-meaning, the image contains black or white only. <br>
        There are five thresholding types:
        <ol>
-          1. *Binary* : <br>
+          1. *Binary* : If the pixel value is greater than the reference pixel value(threshold value), then convert to White(255); otherwise convert to Black(0) <br>
           2. *Binary inverted* : <br>
           3. *Truncated* : <br>
           4. *Threshold to zero* : <br>
