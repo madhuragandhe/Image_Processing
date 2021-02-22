@@ -143,7 +143,7 @@
        There are five thresholding types:
        <ol>
           1. *Binary* : If the pixel value is greater than the reference pixel value(threshold value), then convert to White(255); otherwise convert to Black(0) <br>
-          2. *Binary inverted* : <br>
+          2. *Binary inverted* : If the pixel value is greater than the reference pixel value(threshold value), then convert to Black(0) else convert to White(255).<br>
           3. *Truncated* : <br>
           4. *Threshold to zero* : <br>
           5. *Threshold to zero inverted* : <br>
