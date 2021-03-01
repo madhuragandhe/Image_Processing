@@ -148,5 +148,9 @@
           4. *Threshold to zero* : I f the pixel value is greater than the threshold value, then don't change the value else convert to Black(0).<br>
           5. *Threshold to zero inverted* : <br>
        </ol>
-       [code](https://wazirx.com/exchange/BTC-INR)
+       [code]()
+       <br>
+        **7. Calculating Gradients**<br>
+        **8. Performing Histogram Equalization**<br>
+
 
