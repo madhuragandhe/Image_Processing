@@ -151,6 +151,7 @@
        [code]()
        <br>
         **7. Calculating Gradients**<br>
+        [code]()
         **8. Performing Histogram Equalization**<br>
-
+        [code]()
 
