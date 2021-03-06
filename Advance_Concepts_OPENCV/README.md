@@ -148,10 +148,11 @@
           4. *Threshold to zero* : I f the pixel value is greater than the threshold value, then don't change the value else convert to Black(0).<br>
           5. *Threshold to zero inverted* : <br>
        </ol>
-       [code]()
+       [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/ImageThreshold.py)
        <br>
         **7. Calculating Gradients**<br>
         [code]()
+        <br>
         **8. Performing Histogram Equalization**<br>
         [code]()
 
