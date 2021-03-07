@@ -154,5 +154,5 @@
         [code]()
         <br>
         **8. Performing Histogram Equalization**<br>
-        [code]()
+        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/HistrogramEqualization.py)
 
