@@ -151,7 +151,7 @@
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/ImageThreshold.py)
        <br>
         **7. Calculating Gradients**<br>
-        [code]()
+        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/CalculatingGradients.py)
         <br>
         **8. Performing Histogram Equalization**<br>
         [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/HistrogramEqualization.py)
