@@ -146,7 +146,7 @@
           2. *Binary inverted* : If the pixel value is greater than the reference pixel value(threshold value), then convert to Black(0) else convert to White(255).<br>
           3. *Truncated* : If the pixel value is greater than the threshold value, convert to threshold value otherwise don't change the value. <br>
           4. *Threshold to zero* : I f the pixel value is greater than the threshold value, then don't change the value else convert to Black(0).<br>
-          5. *Threshold to zero inverted* : <br>
+          5. *Threshold to zero inverted* : If pixel value is greater than the threshold value, then convert to black(0); otherwise, don't change. <br>
        </ol>
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/ImageThreshold.py)
        <br>
