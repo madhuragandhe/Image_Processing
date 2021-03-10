@@ -151,6 +151,16 @@
        [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/ImageThreshold.py)
        <br>
         **7. Calculating Gradients**<br>
+        We look at Edge detetion using Sobel derivatives.Edges are found in two directions: the vertical direction and the horizontal direction.
+        With this algorithm we emphasize only those regions that have very high *spatial frequency*.<br>
+        ** Spatial frequency is the level of detail present in an area of importance.<br>
+        The algorithm follows the below steps:<br>
+        <ol>
+          1. .<br>
+          2. .<br>
+          3. .<br>
+          4. .<br>
+        </ol>
         [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/CalculatingGradients.py)
         <br>
         **8. Performing Histogram Equalization**<br>
