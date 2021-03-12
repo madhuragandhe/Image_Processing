@@ -156,10 +156,21 @@
         ** Spatial frequency is the level of detail present in an area of importance.<br>
         The algorithm follows the below steps:<br>
         <ol>
+          1. Read the image.<br>
+          2. Apply Gaussian blur(to remove noise).<br>
+          3. Convert to grayscale.<br>
+          4. Pass the image to sobel() function.<br>
+        </ol>
+        Sobel function parameters are:
+        <ol>
           1. .<br>
           2. .<br>
           3. .<br>
           4. .<br>
+          5. .<br>
+          6. .<br>
+          7. .<br>
+          8. .<br>
         </ol>
         [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/CalculatingGradients.py)
         <br>
