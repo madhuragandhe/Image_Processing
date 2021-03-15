@@ -163,8 +163,8 @@
         </ol>
         Sobel function parameters are:
         <ol>
-          1. .<br>
-          2. .<br>
+          1. Input image.<br>
+          2. Depth of the output image.<br>
           3. .<br>
           4. .<br>
           5. .<br>
