@@ -164,14 +164,21 @@
         Sobel function parameters are:
         <ol>
           1. Input image.<br>
-          2. Depth of the output image.<br>
-          3. .<br>
-          4. .<br>
-          5. .<br>
-          6. .<br>
-          7. .<br>
-          8. .<br>
+          2. Depth of the output image. The greater the depth, the lesses the chances to miss any borders. Depth types are:<br>
+             <ol>
+              a. -1 (the same depth as the original image)
+              b. cv2.CV_16S
+              c. cv2.CV_32F
+              d. cv2.CV_64F
+             </ol>
+          3. Order of derivative x(horizontal edges).<br>
+          4. Order of derivativee y(vertical edges).<br>
+          5. Size of the kernel.<br>
+          6. Scale factor applied to the derivative.<br>
+          7. Delta value.<br>
+          8. Border type for extrapolation.<br>
         </ol>
+        We blend the x and y gradients found to find the overall edges in the image.<br>
         [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/CalculatingGradients.py)
         <br>
         **8. Performing Histogram Equalization**<br>
