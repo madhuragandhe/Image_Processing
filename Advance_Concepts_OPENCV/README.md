@@ -166,10 +166,10 @@
           1. Input image.<br>
           2. Depth of the output image. The greater the depth, the lesses the chances to miss any borders. Depth types are:<br>
              <ol>
-              a. -1 (the same depth as the original image)
-              b. cv2.CV_16S
-              c. cv2.CV_32F
-              d. cv2.CV_64F
+              a. -1 (the same depth as the original image)<br>
+              b. cv2.CV_16S<br>
+              c. cv2.CV_32F<br>
+              d. cv2.CV_64F<br>
              </ol>
           3. Order of derivative x(horizontal edges).<br>
           4. Order of derivativee y(vertical edges).<br>
