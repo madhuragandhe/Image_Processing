@@ -182,5 +182,6 @@
         [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/CalculatingGradients.py)
         <br>
         **8. Performing Histogram Equalization**<br>
+        Histogram equalization is used to adjust the contrast on an image.
         [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/HistrogramEqualization.py)
 
