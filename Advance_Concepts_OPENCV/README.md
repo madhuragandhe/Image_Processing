@@ -182,6 +182,13 @@
         [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/CalculatingGradients.py)
         <br>
         **8. Performing Histogram Equalization**<br>
-        Histogram equalization is used to adjust the contrast on an image.
+        Histogram equalization is used to adjust the contrast on an image. There is a cumulative probability function associated with every image
+        The algorithm follows the below steps:<br>
+        <ol>
+          1. Read the image.<br>
+          2. Convert to grayscale.<br>
+          3. Plot histogram of pixel intensity distribution.<br>
+        </ol>
+        *cv2.equalizeHist()* function is used for histogram equalization.<br>
         [code](https://github.com/madhuragandhe/Image_Processing/blob/master/Advance_Concepts_OPENCV/HistrogramEqualization.py)
 
