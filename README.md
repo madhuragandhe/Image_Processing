@@ -6,4 +6,4 @@
 
    1. **Basic Concepts**: Very basic concepts using Skimage library
    2. **Advance Concepts**: Advance concepts using the OpenCV library
-   3. **MachineLearning Concets**: 
+   3. **MachineLearning Concets**: Image Processing using the Machine Learning concepts
