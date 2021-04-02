@@ -1,2 +1,2 @@
-1.**SIFT**:
-2.**RANSAC**:
+1.**SIFT**: <br>
+2.**RANSAC**: <br>
