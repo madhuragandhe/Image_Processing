@@ -5,10 +5,10 @@
             SIFT algorithm is a scale-invariant, which means that no matter how much we zoom in on the image,we can still find similarities.ANother feature of this algorithm is               that it is rotation invariant. Regardless of the degree of rotation, it still performs well.<br>
             Features of the image that the SIFT algorithm tries to factor out during processing are:
             <ol>
-             .<br>
-             .<br>
-             .<br>
-             .<br>
+             .Scale(zoomed-in or zoomed-out images)<br>
+             .Rotation<br>
+             .Illumination<br>
+             .Perspective<br>
             </ol>
 [code]()<br>
 2.**RANSAC**: <br>
