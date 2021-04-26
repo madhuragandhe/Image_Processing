@@ -10,6 +10,15 @@
              ->Illumination<br>
              ->Perspective<br>
             </ol>
+            Lets look at step-by-step processof using the SIFT algorithm<br>
+            <ol>
+              1.Find and constructing a space to ensure scale invariance<br>
+              2.Find the difference between the gaussians<br>
+              3.Find the important points present inside the image<br>
+              4.Remove unimportant points to make efficient comparisons<br>
+              5.Provide orientation to the important points found in step3<br>
+              6.Identifying the key features uniquely<br>
+            </ol>
 [code](https://github.com/madhuragandhe/Image_Processing/tree/master/MachineLearning_Concepts/SIFT)<br>
 2.**RANSAC**: <br>
 [code]()<br>
