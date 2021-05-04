@@ -5,7 +5,12 @@
 </ol>
 **Step 2: Difference between the Gaussians**<br>
 <ol>
+  1. Take images from step 1 and find the difference between their values.<br>
+  2. This makes the image scale invariant.<br>
+</ol>
 **Step 3: Important Points**<br>
+<ol>
+</ol>
 **Step 4: Unimportant key points**<br>
 **Step 5: Orientation of Key points**<br>
 **Step 6: Key Features**<br>
