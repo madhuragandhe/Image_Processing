@@ -10,6 +10,9 @@
 </ol>
 **Step 3: Important Points**<br>
 <ol>
+  1. The difference between the gaussians image is used to determine the local maxima and minima. The pixel is marked as key point if it is maximum or minimum among all its neighbors.<br>
+  2. Find subpixel maxima/minima using the Taylor expansion.When subpixels are found, we try to find the maxima and minima again.<br>
+  3. To only take corners and consider them as key points, we use Hessian Matrix. Corners are always considered the best key points.<br> 
 </ol>
 **Step 4: Unimportant key points**<br>
 **Step 5: Orientation of Key points**<br>
