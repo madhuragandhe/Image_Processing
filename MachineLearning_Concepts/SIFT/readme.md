@@ -2,12 +2,14 @@
 <ol>
   1. Take original image and perform Gaussian blur, to remove unimportant points and extra noise<br>
   2. Resize the image and repeat the process<br>
-</ol>
+</ol><br>
+
 **Step 2: Difference between the Gaussians**<br>
 <ol>
   1. Take images from step 1 and find the difference between their values.<br>
   2. This makes the image scale invariant.<br>
-</ol>
+</ol><br>
+
 **Step 3: Important Points**<br>
 <ol>
   1. The difference between the gaussians image is used to determine the local maxima and minima. The pixel is marked as key point if it is maximum or minimum among all its neighbors.<br>
