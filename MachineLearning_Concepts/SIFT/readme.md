@@ -25,6 +25,8 @@
 </ol>
 
 **Step 5: Orientation of Key points**<br>
+<ol>
+</ol>
 **Step 6: Key Features**<br>
 
 [sift_operations](https://github.com/madhuragandhe/Image_Processing/blob/master/MachineLearning_Concepts/SIFT/sift_operations.py)
