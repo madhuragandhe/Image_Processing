@@ -26,7 +26,11 @@
 
 **Step 5: Orientation of Key points**<br>
 <ol>
+  1. Find direction of the gradient and the magnitude for each key point and its neighbors<br>
+  2. Look at the most prevalent orientation around the key points and assign the same<br>
+  3. We use histograms to do the same<br>
 </ol>
+
 **Step 6: Key Features**<br>
 
 [sift_operations](https://github.com/madhuragandhe/Image_Processing/blob/master/MachineLearning_Concepts/SIFT/sift_operations.py)
