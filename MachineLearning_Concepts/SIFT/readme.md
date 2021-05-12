@@ -33,8 +33,8 @@
 
 **Step 6: Key Features**<br>
 <ol>
-
-2
+  1. To make key points unique, we extract key features from them.<br>
+  2. When comparing key points of first image to the second image, they should look almost similar and not exactly similar<br>
 </ol>
 
 [sift_operations](https://github.com/madhuragandhe/Image_Processing/blob/master/MachineLearning_Concepts/SIFT/sift_operations.py)
