@@ -20,7 +20,9 @@
               6.Identifying the key features uniquely<br>
             </ol>
 [code](https://github.com/madhuragandhe/Image_Processing/tree/master/MachineLearning_Concepts/SIFT)<br>
-2.**RANSAC**: <br>
+
+2.**RANSAC**: The process of putting one image over the other, at exactly the same place where it si present, is called *image registration*.<br>
+
 [code](https://github.com/madhuragandhe/Image_Processing/tree/master/MachineLearning_Concepts/RANSAC)<br>
 3.**Artificial Neural Networks**:<br>
 [code]()
