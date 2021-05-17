@@ -30,6 +30,11 @@
               4. Image Transformation and Image Resampling<br>
               </ol>
               The RANSAC algorithm is used in the thrid step to find the Transformation function.<br>
+              We take two images and then,using the RANSAC algorithm,we find the homography(similarity) between those images.<br>
+              <ol>
+                1. <br>
+                2.  <br>
+              </ol>
 
 [code](https://github.com/madhuragandhe/Image_Processing/tree/master/MachineLearning_Concepts/RANSAC)<br>
 3.**Artificial Neural Networks**:<br>
